@@ -3,8 +3,8 @@ import { BrowserRouter as Router, Routes, Route, Navigate } from 'react-router-d
 import Nav from './components/Nav';
 import Sidesection from './components/Sidesection';
 import Calendar from './components/Calendar';
-import Employees from './components/Employees';
-import Request from './components/Request';
+import Employees from './components/employees';
+import Request from './components/request';
 import Login from './components/Login';
 import EmployeesList from './components/EmployeesList';
 import TaskManager from './components/TaskManager';
